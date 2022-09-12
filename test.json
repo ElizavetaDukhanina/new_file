@@ -5,11 +5,7 @@
     "name": "Ольга",
     "age": 58
   },
-  "children": [
-    "Маша",
-    "Игорь",
-    "Таня"
-  ],
+  
   "married": true,
   "dog": null
 }
