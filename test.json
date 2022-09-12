@@ -1,6 +1,6 @@
 {
   "name": "Иван",
-  "age": 37,
+  "age": 49,
   "mother": {
     "name": "Ольга",
     "age": 58
@@ -8,4 +8,5 @@
   
   "married": true,
   "dog": null
+
 }
